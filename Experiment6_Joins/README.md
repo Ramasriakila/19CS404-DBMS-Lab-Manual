@@ -208,5 +208,6 @@ join salesman s on c.salesman_id=s.salesman_id;
 
 ## Grade
 <img width="1390" height="79" alt="image" src="https://github.com/user-attachments/assets/39c3a756-43c9-4a6f-b2fc-88bb14c9d43f" />
+
 ## RESULT
 Thus, the SQL queries to implement different types of joins have been executed successfully.
